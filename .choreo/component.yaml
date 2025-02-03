@@ -5,7 +5,7 @@ endpoints:
     displayName: BallerinaBotAPI
     service:
       basePath: /
-      port: 5000
+      port: 8000
     type: REST
     networkVisibilities: 
       - Public
