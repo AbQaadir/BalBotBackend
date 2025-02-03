@@ -5,8 +5,8 @@ info:
 paths:
   /query:
     post:
-      summary: Query Rag
-      operationId: query_rag_query_post
+      summary: ballbot-api
+      operationId: ballbot-api
       requestBody:
         content:
           application/json:
