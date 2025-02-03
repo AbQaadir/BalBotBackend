@@ -1,8 +1,8 @@
 schemaVersion: 1.1
 
 endpoints:
-  - name: ballerina-bot-api
-    displayName: Ballerina Bot API
+  - name: ballbot-api
+    displayName: BallerinaBotAPI
     service:
       basePath: /
       port: 5000
@@ -10,4 +10,4 @@ endpoints:
     networkVisibilities: 
       - Public
       - Organization
-    schemaFilePath: openapi.yaml
+    schemaFilePath: openapi.yaml 
